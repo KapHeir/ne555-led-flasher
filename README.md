@@ -41,6 +41,18 @@ The flashing speed can be adjusted with a potentiometer.
 - `flasor.kicad_sch` — schematic file
 - `flasor.kicad_pcb` — PCB layout file
 - `Gerbers/` — manufacturing files
+- `images/` — project images
+
+## Images
+
+### PCB Layout
+![PCB Layout](images/pcb-layout.png)
+
+### Schematic
+![Schematic](images/schematic.png)
+
+### Gerber Preview
+![Gerber Preview](images/gerber-preview.png)
 
 ## Manufacturing Files
 
