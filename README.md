@@ -46,13 +46,13 @@ The flashing speed can be adjusted with a potentiometer.
 ## Images
 
 ### PCB Layout
-![PCB Layout](images/pcb-layout.png)
+![PCB Layout](Images/pcb-layout.png)
 
 ### Schematic
-![Schematic](images/schematic.png)
+![Schematic](Images/schematic.png)
 
 ### Gerber Preview
-![Gerber Preview](images/gerber-preview.png)
+![Gerber Preview](Images/gerber-preview.png)
 
 ## Manufacturing Files
 
